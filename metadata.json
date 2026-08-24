@@ -1,0 +1,6 @@
+{
+  "name": "Astro Animation Prompt Generator",
+  "description": "Generator prompt animasi (3D Pixar, Claymation, Scrapbook) berbasis server-side rendering dengan Astro.js, Cloudflare Workers, dan Google Gemini API yang aman dari kebocoran prompt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
